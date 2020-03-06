@@ -1,6 +1,7 @@
 <?php
 namespace Telnet;
-include ('TelnetException.php');
+include ('TelnetException.php'); 
+
 /**
 * TelnetClient class
 *

@@ -15,5 +15,4 @@ echo($cmdResult);
 }while($comando != $sair);
 $telnet->disconnect();
 
-
 ?>
