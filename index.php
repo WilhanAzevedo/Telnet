@@ -9,7 +9,16 @@
 </head>
 <body>
 
-<button>Teste</button>
-    
+<div>
+
+<form action="conexao.php" method="post">
+<input type="text" name="comando">
+<input type="submit" value="teste" >
+</form>
+
+</div>
+
+
+
 </body>
 </html>
